@@ -23,5 +23,4 @@ Log out lets the user log out of their account.
 ![Betting Page](/screenshots/betting.png?raw=true "Betting Page")
 
 # Authors
-Namat Noori
-Ondrej Vesely
+Namat Noori & Ondrej Vesely
