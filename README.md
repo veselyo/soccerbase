@@ -17,12 +17,11 @@ Account lets the user view information related to the bets they have placed: sta
 
 Log out lets the user log out of their account.
 
-Video url: https://youtu.be/qxaixOG4K6k
+# Screenshots
+![Home Page](/screenshots/home_page.png?raw=true "Home Page")
+![League Standings](/screenshots/standings.png?raw=true "League Standings Page")
+![Betting Page](/screenshots/betting.png?raw=true "Betting Page")
 
+# Authors
 Namat Noori
-House: Canaday
-Concentration: Computer Science
-
 Ondrej Vesely
-House: Thayer
-Concentration: Computer Science
