@@ -15,5 +15,8 @@ In this project, we attempted to create a full-stack mock soccer betting platfor
 ## Demo
 You can watch a 2-minute long demo walking through the website here: https://www.youtube.com/watch?v=qxaixOG4K6k
 
+## Home Page Screenshot
+![Home Page](screenshots/home_page.png)
+
 ## Contributors
 Namat Noori & Ondrej Vesely
