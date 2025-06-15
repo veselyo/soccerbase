@@ -19,5 +19,5 @@ You can watch a 2-minute long demo walking through the website here: https://www
 ![Home Page](home_page.png)
 
 ## Contributors
-Ondrej Vesely – Backend Lead
-Namat Noori – Frontend Lead
+- Ondrej Vesely – Backend Lead
+- Namat Noori – Frontend Lead
