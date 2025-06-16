@@ -1,6 +1,6 @@
 # Soccerbase
 ## Description
-In this project, we attempted to create a full-stack mock soccer betting platform. It integrates real-time data via an API (https://www.api-football.com/) about the 5 European primary leagues and the 2022 World Cup. It streams betting for the 2022 World Cup via simulated transactions, allowing users to deposit fake currency and use it for bets, which are dynamically paid out based on the result.
+In this project, we attempted to create a full-stack mock soccer betting platform. It integrates real-time data via an [API](https://www.api-football.com/) about the 5 European primary leagues and the 2022 World Cup. It streams betting for the 2022 World Cup via simulated transactions, allowing users to deposit fake currency and use it for bets, which are dynamically paid out based on the result.
 
 ## Features
 - Firstly, the website starts at the home page. This consists of a bootstrap navigation bar which has Home, Leagues, World Cup 2022, Register, Login, Account, and Log Out.
