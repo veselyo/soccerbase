@@ -13,7 +13,7 @@ In this project, we attempted to create a full-stack mock soccer betting platfor
 - Log out lets the user log out of their account.
 
 ## Demo
-You can watch a 2-minute long demo walking through the website here: https://www.youtube.com/watch?v=qxaixOG4K6k
+You can watch a 2-minute long demo walking through the website here:
 
 https://github.com/user-attachments/assets/a10ccab0-c0b9-4b6b-9115-711275272efd
 
