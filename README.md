@@ -15,7 +15,7 @@ In this project, we attempted to create a full-stack mock soccer betting platfor
 ## Demo
 You can watch a 2-minute long demo walking through the website here:
 
-https://github.com/user-attachments/assets/a10ccab0-c0b9-4b6b-9115-711275272efd
+https://github.com/user-attachments/assets/7ba01198-fe1f-4ca9-b90c-61c1b2f03914
 
 ## Contributors
 - Ondrej Vesely – Backend Lead
